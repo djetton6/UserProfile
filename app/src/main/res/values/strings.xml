@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <string name="user_name">Desmend Jetton</string>
+    <string name="user_bday">03/19/1991</string>
+    <string name="user_country">United States of America</string>
+
+</resources>
